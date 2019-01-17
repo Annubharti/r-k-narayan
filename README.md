@@ -7,7 +7,8 @@ Learn English Words
 3. npm start (start server)
 
 # Documentation
-When the code is running, documentation is accessible at localhost:8080/documentation.
+When the code is running, documentation is accessible at localhost: 8080/documentation.
 
-This is the link for seeing documentation : http://annu-lenovo-flex-2-14d:8080/documentation#!/get_word_of_the_day/getGet_word_of_the_day
+As the server run you will get a link. To check its documentation after the line put /documentation 
+
 
